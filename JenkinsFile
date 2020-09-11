@@ -1,4 +1,4 @@
-def username = 'Jenkins'
+def username = 'G3'
 pipeline { 
     agent any 
     options {
